@@ -1,0 +1,6 @@
+2.Activity #2 : Do Tutorial
+https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+
+Make a screen shot of git status on your local drive an add to assignment Word Doc.
+
+Make a screen shot of the GitHub repo/code tab for the tutorial repo and add to assignment Word doc.
